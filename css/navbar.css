@@ -7,6 +7,10 @@ body {
   margin-bottom: 20px;
 }
 
-.right-image {
+img.right-image {
 	padding-left: 10px;
+}
+
+img.no-resize {
+	min-width: 160 px;
 }
