@@ -12,5 +12,6 @@ img.right-image {
 }
 
 img.no-resize {
-	min-width: 160 px;
+	max-width: 320px;
+	min-width: 160px;
 }
