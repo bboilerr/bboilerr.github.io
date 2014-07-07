@@ -7,11 +7,14 @@ body {
   margin-bottom: 20px;
 }
 
-img.right-image {
-	padding-left: 10px;
+img.icon {
+	width: 50%;
+	max-width: 300px;
+	min-width: 76px;
 }
 
-img.no-resize {
-	max-width: 200px;
+img.screenshot {
+	width: 75%;
+	max-width: 300px;
 	min-width: 60px;
 }
