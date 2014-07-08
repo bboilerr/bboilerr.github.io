@@ -18,3 +18,7 @@ img.screenshot {
 	max-width: 300px;
 	min-width: 60px;
 }
+
+img.app-store-button {
+	margin-top: 10px;
+}
